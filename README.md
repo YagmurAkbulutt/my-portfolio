@@ -1,34 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Portfolio
 
-## Getting Started
+- Bu proje, kişisel portföyümü sergilemek için geliştirilmiş bir web sitesidir. Modern web teknolojilerini kullanarak, estetik ve işlevsel bir kullanıcı arayüzü sunmayı amaçlar.
 
-First, run the development server:
+## Teknolojiler
+Bu projede aşağıdaki teknolojiler ve kütüphaneler kullanılmıştır:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- Next.js: React tabanlı bir framework, modern web uygulamaları oluşturmak için kullanılır.
+- React: Kullanıcı arayüzleri oluşturmak için kullanılan bir JavaScript kütüphanesi.
+- React-typical: Yazı animasyonları oluşturmak için kullanılan bir kütüphane.
+- Framer Motion: Animasyonlar ve geçişler için kullanılan bir kütüphane.
+- Tailwind CSS: Özel CSS tasarımları oluşturmak için kullanılan bir CSS framework'ü.
+- @tailwindcss/typography: Typography eklentisi, güzel yazı tipleri için stil sağlar.
+- Next-Themes: Kullanıcı arayüzü teması yönetimi için bir Next.js eklentisi.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## GIF
+<img src="/portfolio/public/screen.gif">
